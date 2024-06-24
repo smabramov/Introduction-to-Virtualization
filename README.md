@@ -73,6 +73,8 @@
 
 Пункты с 1 по 3 выполнены прилагаю скриншоты.
 
-[linux1](ссылка на скриншот 1)
+[linux1](https://github.com/smabramov/Introduction-to-Virtualization/blob/facb37eb608f4c2b7dec5fae6fb252189247b96e/jpg/linux1.jpg)
 
-[linux2](ссылка на скриншот 1)
+
+
+[linux2](https://github.com/smabramov/Introduction-to-Virtualization/blob/facb37eb608f4c2b7dec5fae6fb252189247b96e/jpg/linux2.jpg)
