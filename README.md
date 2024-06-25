@@ -85,6 +85,10 @@
 ![linux2](https://github.com/smabramov/Introduction-to-Virtualization/blob/facb37eb608f4c2b7dec5fae6fb252189247b96e/jpg/linux2.jpg)
 
 
+![linux3]()
+
+
+
 ---
 
 ### Задание 2
